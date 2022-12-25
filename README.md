@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @hiSkio44
+- 👋 Hi, I’m @Veertie
 - 👀 I’m interested in 
 - 🌱 I’m currently learning html/js/css/php
-- 📫 How to reach me -  Discord: Mio <3#7458
+- 📫 How to reach me -  mail: miloszdzik1234@gmail.com
 
 
